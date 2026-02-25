@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Mine",
+  "base_artist": "Bazzi",
+  "createdAt": "2026-02-25T02:55:55.426365Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Can't Have Mine (Find You a Girl)",
+      "artist": "Dylan Scott",
+      "has_synced": true,
+      "path": "select/01_Can't_Have_Mine_(Find_You_a_Girl)_Dylan_Scott.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sweet Child O' Mine",
+      "artist": "Guns N' Roses",
+      "has_synced": true,
+      "path": "select/02_Sweet_Child_O'_Mine_Guns_N'_Roses.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Already Callin' You Mine",
+      "artist": "Parmalee",
+      "has_synced": true,
+      "path": "select/03_Already_Callin'_You_Mine_Parmalee.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Any Man Of Mine",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/04_Any_Man_Of_Mine_Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Anything But Mine",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/05_Anything_But_Mine_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Girl In Mine",
+      "artist": "Parmalee",
+      "has_synced": true,
+      "path": "select/06_Girl_In_Mine_Parmalee.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "He Will Be Mine",
+      "artist": "Carlene Carter",
+      "has_synced": true,
+      "path": "select/07_He_Will_Be_Mine_Carlene_Carter.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "He Will Be Mine (Album Version)",
+      "artist": "Carlene Carter",
+      "has_synced": false,
+      "path": "select/08_He_Will_Be_Mine_(Album_Version)_Carlene_Carter.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Make You Mine",
+      "artist": "High Valley",
+      "has_synced": true,
+      "path": "select/09_Make_You_Mine_High_Valley.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mine - POP Mix",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/10_Mine_-_POP_Mix_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mine (POP Mix)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/11_Mine_(POP_Mix)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mine Would Be You",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/12_Mine_Would_Be_You_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "More Hearts Than Mine",
+      "artist": "Ingrid Andress",
+      "has_synced": true,
+      "path": "select/13_More_Hearts_Than_Mine_Ingrid_Andress.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "More Hearts Than Mine",
+      "artist": "Ingrid Andress",
+      "has_synced": true,
+      "path": "select/14_More_Hearts_Than_Mine_Ingrid_Andress.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "She Used to Be Mine",
+      "artist": "Brooks & Dunn",
+      "has_synced": true,
+      "path": "select/15_She_Used_to_Be_Mine_Brooks_&_Dunn.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mine",
+      "artist": "Bazzi",
+      "has_synced": false,
+      "path": "select/pl_01_Mine_Bazzi.txt"
+    }
+  ]
+}
